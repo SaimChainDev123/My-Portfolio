@@ -1,4 +1,4 @@
-let Footer = () =>{
+const Footer = () =>{
     return(
         <div>
             <footer className="  items-center text-center   absolute   -bottom-[370px] lg:-bottom-[890px] bg-transparent w-full">

@@ -1,4 +1,3 @@
-import Home from "../page";
 import React from "react";
 const Navbar = () => {
     return(

@@ -1,6 +1,5 @@
 import Navbar from "../components/navbar"
-import Footer from "../components/footer"
-import Home from "../page"
+
 
 export default function Skills(){
     return(

@@ -1,9 +1,5 @@
 import Navbar from "./components/navbar";
-import Skills from "./skills/page";
-import { url } from "inspector";
-import Link from "next/link";
-import About from "./about/page";
-import Footer from "./components/footer";
+
 export default function Home() {
   return (
 <main className="lg:h-screen h-screen bg-center bg-cover " style={{backgroundImage: "url(bg-2.jpg)"}}>
